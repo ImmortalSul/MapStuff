@@ -1,4 +1,5 @@
 
+
 import "./filter.scss";
 
 function Filter() {
@@ -56,11 +57,11 @@ function Filter() {
           />
         </div>
         <div className="item">
-          <label htmlFor="bedroom">Bedroom</label>
+          <label htmlFor="WheelChair_Acesss">WheelChair Acesss</label>
           <input
             type="text"
-            id="bedroom"
-            name="bedroom"
+            id="WheelChair_Acesss"
+            name="WheelChair_Acesss"
             placeholder="any"
           />
         </div>

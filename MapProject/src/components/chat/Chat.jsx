@@ -13,7 +13,39 @@ function Chat() {
             src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt=""
           />
-          <span>John Doe</span>
+          <span>Person1</span>
+          <p>Hey does this place have a braile menu</p>
+        </div>
+        <div className="message">
+          <img
+            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            alt=""
+          />
+          <span>Person2</span>
+          <p>Good food big man</p>
+        </div>
+        <div className="message">
+          <img
+            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            alt=""
+          />
+          <span>Person3</span>
+          <p>It would be really helpful if you would add few more ammenities for people who cant speak loud</p>
+        </div>
+        <div className="message">
+          <img
+            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            alt=""
+          />
+          <span>Person4</span>
+          <p>Lorem ipsum </p>
+        </div>
+        <div className="message">
+          <img
+            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            alt=""
+          />
+          <span>Person5</span>
           <p>Lorem ipsum dolor sit amet...</p>
         </div>
         <div className="message">
@@ -21,39 +53,7 @@ function Chat() {
             src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt=""
           />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
+          <span>Person6</span>
           <p>Lorem ipsum dolor sit amet...</p>
         </div>
       </div>
@@ -65,49 +65,49 @@ function Chat() {
                 src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt=""
               />
-              John Doe
+              Dummy
             </div>
             <span className="close" onClick={()=>setChat(null)}>X</span>
           </div>
           <div className="center">
             <div className="chatMessage">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>GO make backend lol</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage own">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>noo T-T it too late me tired</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>NUhuh fck u</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage own">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>NO FUCK U I AM THE CREATOR WHO THE FUCK ARE U TALKIN TO HUH</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>Calm down cunt its you only</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage own">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>Oh u mean the schizo meltdown, the bot wasnt lying then?</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>Technically it wasnt but are u sure u are an entity worth existing</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage own">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>Good question, next</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p> i am bored u can go sleep</p>
               <span>1 hour ago</span>
             </div>
             <div className="chatMessage own">
-              <p>Lorem ipsum dolor sit amet</p>
+              <p>Thanks Uwu</p>
               <span>1 hour ago</span>
             </div>
           </div>

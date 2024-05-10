@@ -28,12 +28,12 @@ function NewPostPage() {
               <input id="city" name="city" type="text" />
             </div>
             <div className="item">
-              <label htmlFor="bedroom">Bedroom Number</label>
-              <input min={1} id="bedroom" name="bedroom" type="number" />
+              <label htmlFor="Ramps">Ramps Number</label>
+              <input min={1} id="Ramps" name="Ramps" type="number" />
             </div>
             <div className="item">
-              <label htmlFor="bathroom">Bathroom Number</label>
-              <input min={1} id="bathroom" name="bathroom" type="number" />
+              <label htmlFor="Elevators">Elevators Number</label>
+              <input min={1} id="Elevators" name="Elevators" type="number" />
             </div>
             <div className="item">
               <label htmlFor="latitude">Latitude</label>

@@ -61,12 +61,12 @@ function SinglePage() {
               <span>80 sqft</span>
             </div>
             <div className="size">
-              <img src="/bed.png" alt="" />
+              <img src="/wheelchair.png" alt="" />
               <span>2 beds</span>
             </div>
             <div className="size">
-              <img src="/bath.png" alt="" />
-              <span>1 bathroom</span>
+              <img src="/elevator.png" alt="" />
+              <span>1 Elevators</span>
             </div>
           </div>
           <p className="title">Nearby Places</p>

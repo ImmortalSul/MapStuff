@@ -20,12 +20,12 @@ function Card({ item }) {
         <div className="bottom">
           <div className="features">
             <div className="feature">
-              <img src="/bed.png" alt="" />
-              <span>{item.bedroom} bedroom</span>
+              <img src="/wheelchair.png" alt="" />
+              <span>{item.WheelChair_Acesss} WheelChair Acesss</span>
             </div>
             <div className="feature">
-              <img src="/bath.png" alt="" />
-              <span>{item.bathroom} bathroom</span>
+              <img src="/elevator.png" alt="" />
+              <span>{item.Elevators} Elevators</span>
             </div>
           </div>
           <div className="icons">
